@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "192721046984",
+    "project_id": "busway-8417f",
+    "storage_bucket": "busway-8417f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192721046984:android:5b66f4e1effa26c5a184fd",
+        "android_client_info": {
+          "package_name": "com.example.busway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192721046984-vaukpg5kfk5r4rea8gmjj7k64hos7b64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOaoUWn4Y2QPX-AcArGisfIQ5CsQ8Nx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192721046984-vaukpg5kfk5r4rea8gmjj7k64hos7b64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192721046984:android:bdda35b7231eef59a184fd",
+        "android_client_info": {
+          "package_name": "com.example.busway_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192721046984-vaukpg5kfk5r4rea8gmjj7k64hos7b64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOOaoUWn4Y2QPX-AcArGisfIQ5CsQ8Nx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192721046984-vaukpg5kfk5r4rea8gmjj7k64hos7b64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
